@@ -1,0 +1,36 @@
+Mono path[0] = 'C:/Users/Vermillion/Desktop/BunnyMoon/BunnyMoon_Data/Managed'
+Mono config path = 'C:/Users/Vermillion/Desktop/BunnyMoon/BunnyMoon_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Vermillion/Desktop/BunnyMoon/BunnyMoon_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55328
+Multi-casting "[IP] 192.168.1.101 [Port] 55328 [Flags] 2 [Guid] 1449852305 [EditorId] 79695220 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-4PNVJ7I) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55328]
+PlayerConnection already initialized - listening to [0.0.0.0:55328]
+Player data archive not found at `C:/Users/Vermillion/Desktop/BunnyMoon/BunnyMoon_Data/data.unity3d`, using local filesystem
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon (TM) R9 380 Series (ID=0x6939)
+    Vendor:   ATI
+    VRAM:     3072 MB
+    Driver:   23.20.15033.5003
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Vermillion\Desktop\BunnyMoon\BunnyMoon_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Vermillion\Desktop\BunnyMoon\BunnyMoon_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Vermillion\Desktop\BunnyMoon\BunnyMoon_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Vermillion\Desktop\BunnyMoon\BunnyMoon_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Vermillion\Desktop\BunnyMoon\BunnyMoon_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Vermillion\Desktop\BunnyMoon\BunnyMoon_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Vermillion\Desktop\BunnyMoon\BunnyMoon_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Vermillion\Desktop\BunnyMoon\BunnyMoon_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Vermillion\Desktop\BunnyMoon\BunnyMoon_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Vermillion\Desktop\BunnyMoon\BunnyMoon_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Vermillion\Desktop\BunnyMoon\BunnyMoon_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Vermillion\Desktop\BunnyMoon\BunnyMoon_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Vermillion\Desktop\BunnyMoon\BunnyMoon_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading C:\Users\Vermillion\Desktop\BunnyMoon\BunnyMoon_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: C:\Users\Vermillion\Desktop\BunnyMoon\BunnyMoon_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Vermillion\Desktop\BunnyMoon\BunnyMoon_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.026 seconds
+<RI> Initializing input.
+<RI> Input initialized.
