@@ -4,7 +4,7 @@ var mysql = require('mysql');
 var util = require('util');
 var connection = mysql.createConnection({
     host: 'localhost',
-    user: 'devgame',
+    user: 'devteam',
     password: 'password123',
     database: 'Game1'
 
